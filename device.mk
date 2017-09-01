@@ -15,5 +15,5 @@
 #
 
 PRODUCT_COPY_FILES += \
-    device/lenovo/tb_x704l/kernel:kernel
+    device/lenovo/tb_x304l/kernel:kernel
 
